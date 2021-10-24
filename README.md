@@ -1,7 +1,15 @@
 # Clicker-Game
 Click
 
-Extract all Files 
+Extract all Files in the File 
+when the extraction is done go to the Extracted folder.
+Then go to the Clicker folder open it.
+Then open Cookie Clicker. 
+the picture looks like a cube and start it.
+
+ !!!! Don´t drag The Cookie Clicker (the picture looks like a cube) out of the Folder  !!!!
+ 
+ !!!! You can drag the Clicker Folder out of Clicker-Game-Main folder !!!!
 
 Englisch:
 the Game is not in this Files.
