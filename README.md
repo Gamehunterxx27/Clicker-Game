@@ -82,3 +82,8 @@ permainan tidak termasuk dalam file-file ini.
 permainan sedang dalam pengerjaan.
 tolong jangan terlalu berharap
 dari permainan
+
+Update :
+
+-Bug fixes 
+-Tutorial
