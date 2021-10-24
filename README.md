@@ -10,6 +10,11 @@ the picture looks like a cube and start it.
  !!!! Don´t drag The Cookie Clicker (the picture looks like a cube) out of the Folder  !!!!
  
  !!!! You can drag the Clicker Folder out of Clicker-Game-Main folder !!!!
+ 
+ Update :
+
+-Bug fixes 
+-Tutorial
 
 Englisch:
 the Game is not in this Files.
@@ -82,8 +87,3 @@ permainan tidak termasuk dalam file-file ini.
 permainan sedang dalam pengerjaan.
 tolong jangan terlalu berharap
 dari permainan
-
-Update :
-
--Bug fixes 
--Tutorial
