@@ -1,7 +1,7 @@
 # Clicker-Game
 Click
 
-Extract all Files frome the Clicker folder in the main folder
+Extract all Files 
 
 Englisch:
 the Game is not in this Files.
