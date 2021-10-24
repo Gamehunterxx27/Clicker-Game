@@ -12,7 +12,7 @@ Deutsch:
 das Spiel ist nicht in diesen Dateien enthalten.
 das Spiel ist in Arbeit.
 bitte erwarte nicht zu viel
-aus dem Spiel
+von dem Spiel
 
 Portugiesisch:
 o jogo não está incluído nesses arquivos.
@@ -37,3 +37,39 @@ Russisch:
 игра находится в разработке.
 пожалуйста, не ждите слишком многого
 из игры
+
+Afrikaans:
+die speletjie is nie by hierdie lêers ingesluit nie.
+die spel is in die werke.
+moet asseblief nie te veel verwag nie
+van die spel
+
+Hawaiisch:
+ʻaʻole i hoʻokomo ʻia ka pāʻani i kēia mau faila.
+aia ka pāʻani i nā hana.
+mai manao nui
+o ka pāʻani
+
+Japanisch
+ゲームはこれらのファイルに含まれていません。
+ゲームは進行中です。
+あまり期待しないでください
+ゲームの
+
+Ungarisch:
+a játék nem szerepel ezekben a fájlokban.
+a játék készül.
+kérlek ne várj túl sokat
+a játékból
+
+Oriya:
+ଖେଳ ଏହି ଫାଇଲଗୁଡ଼ିକରେ ଅନ୍ତର୍ଭୂକ୍ତ ନୁହେଁ |
+ଖେଳ କାର୍ଯ୍ୟରେ ଅଛି |
+ଦୟାକରି ଅଧିକ ଆଶା କରନ୍ତୁ ନାହିଁ |
+ଖେଳର
+
+Indonesisch:
+permainan tidak termasuk dalam file-file ini.
+permainan sedang dalam pengerjaan.
+tolong jangan terlalu berharap
+dari permainan
