@@ -13,8 +13,8 @@ the picture looks like a cube and start it.
  
  Update :
 
--Bug fixes 
--Tutorial
+-New Design 
+
 
 Englisch:
 the Game is in Work.
